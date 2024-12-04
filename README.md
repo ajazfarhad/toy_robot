@@ -2,7 +2,7 @@
 ### Run Interactively
 To run the application in interactive mode:
 ``
-ruby your_script.rb
+ruby main.rb
 ``
 You will be prompted to enter commands. A sample command file is given under the lib directory. Type ``EXIT`` to quit.
 
@@ -15,7 +15,7 @@ Create a text file with commands, for example, ``commands.txt``
 ``EXIT``
 
 Run the application with the file as an argument:
-``ruby your_script.rb commands.txt``
+``ruby main.rb commands.txt``
 
 ## Testing
 ``bundle exec rspec``
