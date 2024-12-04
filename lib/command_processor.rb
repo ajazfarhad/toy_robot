@@ -42,19 +42,4 @@ class CommandProcessor
     when 'REPORT'then ReportCommand.new
     end
   end
-  #   case command_str.strip
-  #   when /^PLACE (\d+),(\d+),(NORTH|SOUTH|EAST|WEST)$/
-  #     PlaceCommand.new(::Regexp.last_match(1).to_i, ::Regexp.last_match(2).to_i, ::Regexp.last_match(3))
-  #   when 'MOVE'
-  #     MoveCommand.new
-  #   when 'LEFT'
-  #     LeftCommand.new
-  #   when 'RIGHT'
-  #     RightCommand.new
-  #   when 'REPORT'
-  #     ReportCommand.new
-  #   else
-  #     nil
-  #   end
-  # end
 end

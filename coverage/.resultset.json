@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/farhadajaz/Desktop/robot-exercise/spec/commands/move_command_spec.rb": {
+      "/Users/farhadajaz/Desktop/toy_robot/spec/commands/move_command_spec.rb": {
         "lines": [
           1,
           null,
@@ -41,7 +41,7 @@
           null
         ]
       },
-      "/Users/farhadajaz/Desktop/robot-exercise/spec/commands/place_command_spec.rb": {
+      "/Users/farhadajaz/Desktop/toy_robot/spec/commands/place_command_spec.rb": {
         "lines": [
           1,
           null,
@@ -66,7 +66,7 @@
           null
         ]
       },
-      "/Users/farhadajaz/Desktop/robot-exercise/spec/commands/report_command_spec.rb": {
+      "/Users/farhadajaz/Desktop/toy_robot/spec/commands/report_command_spec.rb": {
         "lines": [
           1,
           null,
@@ -86,7 +86,7 @@
           null
         ]
       },
-      "/Users/farhadajaz/Desktop/robot-exercise/spec/commands/right_command_spec.rb": {
+      "/Users/farhadajaz/Desktop/toy_robot/spec/commands/right_command_spec.rb": {
         "lines": [
           1,
           null,
@@ -134,6 +134,6 @@
         ]
       }
     },
-    "timestamp": 1733233464
+    "timestamp": 1733297651
   }
 }
