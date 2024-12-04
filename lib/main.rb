@@ -7,7 +7,7 @@ require_relative 'command_processor'
 
 class ToyRobotSimulator
   def initialize
-    @table = Table.new(5, 5)
+    @table = Table.new
     @robot = Robot.new(@table)
     @command_processor = CommandProcessor.new(@robot)
   end
